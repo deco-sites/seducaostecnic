@@ -1,0 +1,11 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "site/sections/ItWorks.tsx",
+      "name": "<div>\r\n  <img src=\"https://www.mulhersecreta.com.br/wp-content/webp-express/webp-images/uploads/2021/08/ultrasecreto.png.webp\">\r\n</div>\r\n<br>\r\n\r\n<p style=\"font-size:24px; text-align:center;\">Você adquiriu o <span style=\"color:pink;\">Sedução Secreta</span> mas...</p>\r\n\r\n\r\n<p style=\"font-size:16px;\">Você pode obter agora um complemento do produto!, agora são 9 técnicas!, tudo isso vai incluir:\r\n<br>\r\n<span style=\"color:pink;\">- 4 regras para transformar um amor de longa distância na Internet em um relacionamento normal</span>\r\n<br>\r\n<span style=\"color:pink;\">- 5 assassinos de relacionamento e como evitá-los</span>\r\n<br>\r\n<span style=\"color:pink;\">- Estratégias e Táticas de Namoro</span>\r\n</p>\r\n\r\n<div style=\"margin-top:40px;\">\r\n  <p style=\"font-size:18px;\">Como você é uma cliente amada vai ganhar um precinho daqueles!</p>\r\n</div>"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
